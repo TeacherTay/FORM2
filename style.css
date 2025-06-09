@@ -5,3 +5,6 @@ body  {
  h2{
   color:rgb(255, 0, 157);
 }
+.explicacao{
+    font-style: italic;
+}

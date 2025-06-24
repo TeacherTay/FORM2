@@ -5,6 +5,7 @@ body{
 
 h2{
     color: #851acc;
+    font-weight: bold;
 }
 .texto-ingles{
     font-style: italic;

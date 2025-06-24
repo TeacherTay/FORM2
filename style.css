@@ -1,10 +1,10 @@
 body{
-    background-color: #305050;
-    color: white;
+    background-color: #eddef7;
+    color: rgb(172, 0, 252);
 }
 
 h2{
-    color: orange;
+    color: rgb(98, 0, 255);
 }
 .texto-ingles{
     font-style: italic;
